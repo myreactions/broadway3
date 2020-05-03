@@ -14,9 +14,19 @@ h3 {
 p {
   font-size: 14px;
 }
+a {
+  font-size: 18px;
+}
+footer {
+  text-align: left;
+  background-color: dimgray;
+}
 .background {
   background-image: url("../images/building.png");
 }
 .white {
   color: white;
+}
+.small {
+  font-size: 11px;
 }
